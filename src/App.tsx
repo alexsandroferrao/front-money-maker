@@ -1,5 +1,5 @@
 import { Route, Routes } from 'react-router';
-import Home from './pages/About.page';
+import Home from './pages/home/Home.page';
 import MoneyPage from './pages/Money.page';
 
 function App() {
